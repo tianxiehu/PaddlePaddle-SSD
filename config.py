@@ -21,7 +21,7 @@ use_model = 'vgg_ssd'
 label_file = 'dataset/label_list'
 # The list file of images to be used for training.
 train_list = 'dataset/trainval.txt'
-# The list file of images to be used for training.
+# The list file of images to be used for testing.
 test_list = 'dataset/test.txt'
 nms_threshold = 0.45
 # Save model path
